@@ -24,6 +24,11 @@ delete /delete-device/:id
 - Configure .env file
 - Create a local development database with `DB_DATABASE` name
 - Create a local test database with `DB_DATABASE_TEST` name
+- 
+Installing dependencies
+```
+yarn install
+```
 
 ### 2.2 Running the project
 ```
